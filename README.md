@@ -9,28 +9,7 @@ Melody is a mobile music streaming app where listeners play songs, build playlis
 
 Because results follow what the listener asks for rather than popularity alone, lesser-known artists also gain a fairer chance of being heard.
 
----
 
-## Table of contents
-
-1. [Features](#features)
-2. [User roles](#user-roles)
-3. [System architecture](#system-architecture)
-4. [Core flows](#core-flows)
-5. [Tech stack](#tech-stack)
-6. [Data model](#data-model)
-7. [Recommendation engine](#recommendation-engine)
-8. [AI discovery layer](#ai-discovery-layer)
-9. [Event tracking](#event-tracking)
-10. [Audio streaming](#audio-streaming)
-11. [API overview](#api-overview)
-12. [Folder structure](#folder-structure)
-13. [Development roadmap](#development-roadmap)
-14. [Getting started](#getting-started)
-15. [Scope and non-goals](#scope-and-non-goals)
-16. [Documentation](#documentation)
-
----
 
 ## Features
 
